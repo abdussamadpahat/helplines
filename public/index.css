@@ -1,0 +1,89 @@
+.bg{
+    background-color: rgb(240, 110, 50);
+}
+.bgs{
+    background-color: rgb(240, 110, 50);
+}
+.textc{
+    color: rgb(255, 250, 230);
+}
+
+.bg2{
+    background-color: rgb(255, 250, 230);
+}
+.text{
+    color: rgb(95, 94, 94);;
+}
+.pages{
+    text-decoration:none;
+    padding: 7px;
+}
+.pages:hover{
+    color: black;
+    background-color:  rgb(254, 149, 100);
+}
+.cards{
+    margin: 5%;
+    background-color: rgb(251, 222, 197);
+    border-radius: 15px;
+    box-shadow: 0 0 10px  rgb(251, 118, 2);
+}
+.togler{
+    border: none;
+}
+.dntbtn{
+    border: none;
+    border-collapse: separate;
+    color: white;
+    font-weight: 600;
+    font-size: 12px;
+}
+.fbtn{
+    color: rgb(52, 52, 52);
+    font-weight: 200;
+    font-size: 22px;
+    cursor: pointer;
+}
+.fbtn:hover{
+   font-size: 25px;
+   font-weight: 300;
+   /* padding-bottom: 20px; */
+}
+.dbtn{
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.dbtn:hover{
+    font-weight: 700;
+    color: rgb(63, 63, 63);
+}
+
+.donationTableNumber{
+    color: rgb(54, 54, 54);
+    width: 10%;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 600;
+}
+.donationTableName{
+    color: rgb(54, 54, 54);
+    width: 65%;
+    text-align: left;
+    font-size: 12px;
+    font-weight: 600;
+}
+.donationTableAmmount{
+    color: rgb(54, 54, 54);
+    width: 25%;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 600;
+}
+.donationTable{
+    border-top: 1px solid rgb(182, 181, 181);
+    height: 30px;
+    padding-top: 7px;
+}
